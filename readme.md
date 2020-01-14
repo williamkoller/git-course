@@ -52,3 +52,14 @@ git commit -a -m "message"
   margin-left: auto;
   margin-right: auto;
   width: 80%;"/>
+
+#### mostra log em linha
+
+```
+  git log --pretty=oneline
+```
+
+<img src="git-log-pretty.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;">
