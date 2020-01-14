@@ -70,7 +70,18 @@ git commit -a -m "message"
   git log -p
 ```
 
-<img src="git-log-p.png" tyle="display: block;
+<img src="git-log-p.png" style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;">
+
+#### mostra o log quem commitou, time e a descrição do commit
+
+```
+  git log --pretty=format:"%h - %an, %ar : %s"
+```
+
+<img src="git-log-atalho.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;"/>
