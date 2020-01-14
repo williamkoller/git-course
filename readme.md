@@ -8,7 +8,7 @@
   git status
  ```
 
- <img src="git-status.jng"/>
+ <img src="git-status.png"/>
 
 #### adiciona todos os arquivos a serem commitados
 
