@@ -32,3 +32,11 @@
 git commit -a -m "message"
 
 ```
+
+#### mostra os logs
+
+```
+  git log
+```
+
+<img src="git-log.png"/>
