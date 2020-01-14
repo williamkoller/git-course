@@ -8,8 +8,10 @@
   git status
  ```
 
-<center/>
-  <img src="git-status.png"/>
+  <img src="git-status.png" class="center" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;"/>
 
 ### 2 - arquivo sendo adicionado e versionado
 
@@ -17,7 +19,10 @@
   git add readme.md
 ```
 
-<img src="git-add.png"/>
+<img src="git-add.png" lass="center" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;"/>
 
 ### 3 - arquivo sendo commitado
 
@@ -25,7 +30,10 @@
   git commit -m "adding readme"
 ```
 
-<img src="git-commit.png"/>
+<img src="git-commit.png" lass="center" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;"/>
 
 #### adiciona todos os arquivos a serem commitados
 
@@ -40,4 +48,7 @@ git commit -a -m "message"
   git log
 ```
 
-<img src="git-log-1.png"/>
+<img src="git-log-1.png" lass="center" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;"/>
