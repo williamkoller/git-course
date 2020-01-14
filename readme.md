@@ -8,7 +8,8 @@
   git status
  ```
 
- <img src="git-status.png"/>
+<center/>
+  <img src="git-status.png"/>
 
 ### 2 - arquivo sendo adicionado e versionado
 
@@ -39,4 +40,4 @@ git commit -a -m "message"
   git log
 ```
 
-<img src="git-log.png"/>
+<img src="git-log-1.png"/>
