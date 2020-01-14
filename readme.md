@@ -63,3 +63,14 @@ git commit -a -m "message"
   margin-left: auto;
   margin-right: auto;
   width: 80%;">
+
+#### mostra o log do que foi mudado
+
+```
+  git log -p
+```
+
+<img src="git-log-p.png" tyle="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;">
